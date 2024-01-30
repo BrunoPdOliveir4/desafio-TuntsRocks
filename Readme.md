@@ -16,8 +16,9 @@ Passos para Utilização
 2. Navegue até a pasta raiz do projeto no terminal.
 
 3. Inicialize o projeto utilizando o comando:
+   ```cd desafio-TuntsRocks/```
 
-```npm init```
+```npm install```
 
 
 4. Após a instalação das dependências (node_modules), execute o programa com o comando:

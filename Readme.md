@@ -11,8 +11,7 @@ Passos para Utilização
 
 1. Clone o repositório para a sua IDE utilizando o seguinte comando:
 
-``` git clone https://github.com//BrunoPdOliveir4/desafio-TuntsRocks.git
-```
+``` git clone https://github.com//BrunoPdOliveir4/desafio-TuntsRocks.git```
 
 2. Navegue até a pasta raiz do projeto no terminal.
 

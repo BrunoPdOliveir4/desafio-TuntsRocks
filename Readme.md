@@ -42,3 +42,9 @@ Passos para Utilização
 - Caso encontre algum problema, verifique se todas as dependências estão instaladas corretamente e se as credenciais do Google Sheets estão configuradas adequadamente.
 
 Aproveite o uso da calculadora automática de médias e situações!
+
+
+### Observações
+- Poderia ter melhorado mais porém, não sabia a deadline, como hoje vi que era até amanhã, decidi organizar um pouco mais o código.
+- Gostaria de ter trabalhado melhor alguns bons costumes, dividir mais funções, etc. 
+- Estou ansioso pelo resultado
